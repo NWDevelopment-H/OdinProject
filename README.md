@@ -1,2 +1,2 @@
-# OdinProject
-This is the repository for all of my Odin Project work.
+# OdinProject html foundations
+Repo for html foundations work
